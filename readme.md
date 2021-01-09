@@ -11,7 +11,6 @@
 </ol>
 
 <h2>How to use ?</h2>
-<script>
 <pre>
     require([
 	'jquery',
@@ -23,7 +22,6 @@
         });
     }
 </pre>
-</script>
 
 <h2>People also search:</h2>
 <ul>
