@@ -11,16 +11,19 @@
 </ol>
 
 <h2>How to use ?</h2>
+<script>
 <pre>
-    require(
-        ['jquery', 'slick']
-    ), function($) {
+    require([
+	'jquery',
+	'slick'
+    ]), function($) {
         $(document).ready(function(){
             // initialize slick here
             $('#your_element_selector').slick();
         });
     }
 </pre>
+</script>
 
 <h2>People also search:</h2>
 <ul>
