@@ -11,7 +11,7 @@
 </ol>
 
 <h2>How to use ?</h2>
-```js
+<pre>
     require(
         ['jquery', 'slick']
     ), function($) {
@@ -20,7 +20,7 @@
             $('#your_element_selector').slick();
         });
     }
-```
+</pre>
 
 <h2>People also search:</h2>
 <ul>
