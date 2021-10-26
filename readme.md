@@ -1,5 +1,5 @@
 <h1>Magento 2 Slick</h1>
-<p>Compatible with magento 2.0.0 - 2.4.1</p>
+<p>Compatible with magento 2.*.*</p>
 
 <h2>Installation</h2>
 <ol>
