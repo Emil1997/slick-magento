@@ -3,7 +3,7 @@
 
 <h2>Installation</h2>
 <ol>
-	<li>Create Elite/SlickCarousel inside your app/code folder to your magento installtion</li>
+	<li>Create Elite/SlickCarousel inside your app/code folder to your magento installtion</li><br>
 	<li><pre>git clone https://github.com/Emil1997/magento2-slick.git</pre></li>
 	<li><pre>php bin/magento module:enable Elite_SlickCarousel</pre></li>
 	<li><pre>php bin/magento setup:upgrade</pre></li>
